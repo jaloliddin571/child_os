@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "839469063059",
+    "project_id": "bolajon-os-dd744",
+    "storage_bucket": "bolajon-os-dd744.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839469063059:android:05015cb82dd4b56318e666",
+        "android_client_info": {
+          "package_name": "com.example.child_os"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839469063059-bgeml9a9m1au5e37uug19getbtm0mioa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzgdcSVpFOsDyumNhidofG9KElZJcikyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839469063059-bgeml9a9m1au5e37uug19getbtm0mioa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "839469063059-8eufpf5e11q4uhthrk3qm5imaloc2sok.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.childOs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
